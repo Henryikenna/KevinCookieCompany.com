@@ -1,0 +1,6 @@
+
+
+#ignore all.txt files
+/Employee Salaries.txt
+git rm Employee Salaries.txt
+*.txt
